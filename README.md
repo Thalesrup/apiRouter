@@ -529,5 +529,5 @@ header-name: content-type  Header-value: application/x-www-form-urlencoded
 #### Condiderações Finais
 
 Evolui como Desenvolvedor com este pequeno Projeto, certamente há muitas formas de refatorar ele e aperfeiçoa-lo, não pude testar completamente.
-Espero suprir as expectativas, estou disponivél se surgirem duvidas. Desde já agradeço a oportunidade.
+Estou disponivél se surgirem duvidas. Desde já agradeço a oportunidade.
 Att. Thales F Ruppenthal
