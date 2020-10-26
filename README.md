@@ -494,7 +494,7 @@ EngineFirebase.php alterando para o nome do arquivo que será utilizado as crede
 clone projeto se quiser:
 ``` bash
 # clone
-git clone https://github.com/carlosfgti/crud-laravel-5.7.git
+git clone https://github.com/Thalesrup/apiRouter
 
 # Access project
 cd crud-laravel-5.7
