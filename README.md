@@ -496,8 +496,8 @@ clone projeto se quiser:
 # clone
 git clone https://github.com/Thalesrup/apiRouter
 
-# Access project
-cd crud-laravel-5.7
+# Acessar Projeto
+cd apiRouter
 ```
 Se for zip
 ``` bash
