@@ -5,6 +5,9 @@
 ###### 
 ## About ApiRouter
 Simples e Pequeno, ApiRouter-Jobs + Firebase
+Exemplo Funcional Para testes http://webserver666.online/apiRouter/api/public/allJobs
+Pode ser usado para consumir as requisições
+http://webserver666.online/apiRouter/api
 ###### 
 
 ### Highlights
