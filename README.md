@@ -484,7 +484,7 @@ para evitar duplicatas, neste mesmo contexto entra a validação que estaria nes
 ###### Desafios Encontrados
 
 - Pouca Documentação e exemplos de como aplicar e utilizar Firebase em projeto com PHP
-- Conseguir Testar a aplicação no espaço de tempo determinado para entrega do teste
+- Conseguir Testar a aplicação no espaço de tempo curto, Projeto Desenvolvido em 3 Dias
 - Aplicar DRY tanto quanto possivel sem refatorar o router
 - Desenvolver e Aplicar uma forma de Validar os dados das Request (FormValidate), aplicando regra de negócio sem quebrar a aplicação
 
