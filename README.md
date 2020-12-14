@@ -5,9 +5,12 @@
 ###### 
 ## About ApiRouter
 Simples e Pequeno, ApiRouter-Jobs + Firebase
-Exemplo Funcional Para testes http://webserver666.online/apiRouter/api/public/allJobs
+Exemplo Funcional Para testes http://webserver666.online/apiRouter/api/public/allJobs - Descrição da Vaga - En ou Pt-br
 Pode ser usado para consumir as requisições
 http://webserver666.online/apiRouter/api
+
+Listagem das Vagas usando Vuejs Bootstrap http://webserver666.online/jobsApp/ - Descrição Pt-br
+Obs: Implementado um Tradutor para o retorno da Api (en para pt-br)- Descrição da vaga
 ###### 
 
 ### Highlights
